@@ -21,7 +21,7 @@ http://localhost:3000
   - **Conteúdo:** Lista de objetos JSON, cada um representando uma pessoa física.
 - **Exemplo de Resposta:**
 
-  ````json
+  ```json
   [
     {
       "nome": "João Silva",
@@ -42,7 +42,8 @@ http://localhost:3000
       "endereco": "Avenida Exemplo, 456"
     }
   ]
-    ```
+  ```
+
   Criar Pessoa Física
   Endpoint: /pessoa-fisica
   Método HTTP: POST
@@ -76,7 +77,6 @@ http://localhost:3000
   "endereco": "Rua Exemplo, 123"
   }
   ```
-  ````
 
 Pessoa Jurídica
 Listar Pessoas Jurídicas
