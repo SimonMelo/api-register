@@ -1,0 +1,15 @@
+{
+  "pessoasFisicas": [
+    {
+      "id": "2b51",
+      "nome": "João Silva",
+      "cpf": "123.456.789-00",
+      "dataNascimento": "1980-01-01",
+      "sexo": "Masculino",
+      "telefone": "(11) 12345-6789",
+      "email": "joao.silva@example.com",
+      "endereco": "Rua Exemplo, 123"
+    }
+  ],
+  "pessoasJuridicas": []
+}
